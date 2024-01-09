@@ -235,7 +235,7 @@ function App() {
                 <div className='flex flex-row space-x-2 my-3'>
                   <div className='flex flex-row space-x-2'>
                     <p className='font-bold tracking-wider'>Collection:</p>
-                    <p>Dymension Bulls</p>
+                    <p>Taiko Bulls</p>
                   </div>
                   <div className='flex flex-row space-x-2'>
                     <p className='font-bold tracking-wider'>Number:</p>
